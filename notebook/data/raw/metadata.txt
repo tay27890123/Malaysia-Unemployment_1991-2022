@@ -1,6 +1,6 @@
 source:Kaggle - Global Jobs, GDP & Unemployment Data (1991-2022)
 url:https://www.kaggle.com/datasets/akshatsharma2/global-jobs-gdp-and-unemployment-data-19912022
-download_date:2026-03-17T19:28:57.554678
+download_date:2026-03-20T17:36:02.809549
 file_name:Data_set.csv
 file_size_bytes:399251
 checksum_sha256:a119f1898c4ba24ca8569c5fecda644caf94710d9f8f3a90f73883abb5dcf05c
