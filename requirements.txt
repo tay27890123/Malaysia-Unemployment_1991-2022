@@ -1,7 +1,10 @@
+# requirements.txt - Malaysia Unemployment Analysis Project
+# Install with: pip install -r requirements.txt
+
 pandas
 numpy
 matplotlib
 seaborn
-plotly
-jupyter
-pathlib
+scipy
+scikit-learn
+jupyterlab
