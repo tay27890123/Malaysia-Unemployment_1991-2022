@@ -8,7 +8,8 @@ This project analyses 32 years of employment and GDP data for Malaysia using a p
 
 Dataset Kaggle – Global Jobs, GDP and Unemployment Data (1991–2022)
 https://www.kaggle.com/datasets/akshatsharma2/global-jobs-gdp-and-unemployment-data-19912022
--This data contains Global Jobs , so i pull out the Malaysia data in 01 and 02 notebook to help me more focus on Malaysia economics analysis.
+
+- This data set contains Global data , so i pull out the Malaysia data in 01 and 02 notebook to help me more focus on Malaysia economics analysis.
 
 
 I analysed the data in two ways:
